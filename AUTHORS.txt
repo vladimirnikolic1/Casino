@@ -1,1 +1,4 @@
-Vladimir Nikolic wwllaaddaa@yahoo.com
+# This is the official list of project authors for copyright purposes.
+# This file is distinct from the CONTRIBUTORS.txt file.
+
+Vladimir Nikolic <milorad51@gmail.com>
