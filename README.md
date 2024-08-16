@@ -1,6 +1,6 @@
 # Casino
 
-![Image](documentation/image1.png)
+![Image](documentation/image4.png)
 
 A casino is a facility for certain types of gambling. Casinos are often built near or combined with hotels, resorts, restaurants, retail shops, cruise ships, and other tourist attractions. Some casinos are also known for hosting live entertainment, such as stand-up comedy, concerts, and sports.
 
@@ -16,7 +16,6 @@ Weight | wght | 400 | Regular
 
 ![Image](documentation/image3.png)
 
-![Image](documentation/image4.png)
 
 ## License
 
